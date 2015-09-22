@@ -1,0 +1,20 @@
+##Basic format
+1. Warmup - 15 min
+2. Lesson - 30 min
+3. Mini-project/exploration time - 1 hr
+4. Cool tech stuff - 15 min (If we can find something, otherwise maybe a showcase time)
+5. Food time
+
+###Warmup
+
+Logic problem or "Explain to an alien how to make a peanut butter and jelly sandwich" (or similar)
+
+###Lesson
+
+Animation
+
+###Needs
+* Computers
+* Food
+* Art supplies (big paper, markers)
+* Practice animation
